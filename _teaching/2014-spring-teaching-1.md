@@ -3,7 +3,6 @@ title: "High School Math Courses"
 collection: teaching
 type: "Highschool course"
 permalink: /teaching/2014-spring-teaching-1
-venue: ""
 date: 2019-02-02
 location: "Vanves, France"
 ---
