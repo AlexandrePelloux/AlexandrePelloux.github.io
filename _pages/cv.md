@@ -11,42 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Double degree in Data-Sciences, University of Lille and Centrale Lille Institute, 2021 
+* Centrale-Lille's Student, Centrale Lille School, 2019-2021
+* Mathematics Degree, University Of lille, 2019-2020 (expected)
+* Intensive foundation degree in Mathematics and Physics (Classe préparatoire), Lycée Michelet, 2016-2019
+* Baccalaureate, Lycée Sévigné, 2016
+
+
+
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April-July 2021: Research Internship
+  * Cristal Laboratory, ORKAD Team
+  * Duties : State of the art about incorporation of machine learning techniques to improve multi-objectives meta-heuritics.
+  * Supervisor: Laetitia JOURDAN
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January-Febuary 2020: First Engineer Internship
+  * EOMYS 
+  * Duties : Help the development of one of the softwares of the company.
+  * Supervisor: Jean Lebesnerais
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Coding and tech skills
+  * Python (and data related libraries numpy, matplotlib, pandas..)
+  * Javascript/HTML/CSS : Basics of front end Web development
+  * PHP (and Jquery framework)
+  * LateX
+  * SQL
+* Strong theroetical background in Mathematics and Physics
+* Langages
+  * English (TOIC Score 975/990)
+  * German (17/20 at Centrale's Entrance competitive examination) 
+  * French (Native Speaker)
+  * Italian (B1 CEFR)
+* Others
+  * Video editing skills (Adobe After effects, Premiere Pro, Sony Vegas Pro)
+  * Drummer (Last year of third cycle)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -54,6 +58,4 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
