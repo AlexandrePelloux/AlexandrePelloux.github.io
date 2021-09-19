@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "DeepCare Project"
+excerpt: "Pancreatic cancer Diagnosis and treatement<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+TThis team project aimed to create a Software in order to improve Medical diagnosis and treatment of pancreatic cancer. It has been developed with the help of doctors and surgeons. After it had been finished, it was given to Cristal laboratory for further development and distribution. This project took has been presented in online conferences and had received some very positive feedback from the medical sphere it had been presented to. It is also going to published in centrale’s alumuni newspaper ”L’ingénieur”
