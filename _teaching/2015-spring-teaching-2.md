@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-2.md
 venue: "Ecole Centrale de Lille, ClubTime Association"
-date: 2020
+date: 2020-09-09
 location: "Villeneuve d'ascq, France"
 ---
 
