@@ -2,7 +2,7 @@
 title: "Maths Courses (degree Level) for International students"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2015-spring-teaching-2
 venue: "Ecole Centrale de Lille, ClubTime Association"
 date: 2020
 location: "Villeneuve d'ascq, France"
