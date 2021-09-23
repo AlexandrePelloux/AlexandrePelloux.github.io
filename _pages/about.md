@@ -15,9 +15,9 @@ What you will find
 ------
 * **My Up-to-date CV**
 * **Several ways to reach me**
-* **My publication (to come)**
-* **My previous work (see Portfolio)**
-* **My teaching experience**
+* **My publications (to come)**
+* **My previous works (see Portfolio)**
+* **My teaching experiences**
 
 About me
 ------
