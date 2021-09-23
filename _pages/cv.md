@@ -13,7 +13,7 @@ Education
 ======
 * Double degree in Data-Sciences, University of Lille and Centrale Lille Institute, 2021 
 * Centrale-Lille's Student, Centrale Lille School, 2019-2021
-* Mathematics Degree, University Of lille, 2019-2020 (expected)
+* Mathematics Degree, University Of lille, 2019-2020 
 * Intensive foundation degree in Mathematics and Physics (Classe préparatoire), Lycée Michelet, 2016-2019
 * Baccalaureate, Lycée Sévigné, 2016
 
@@ -37,8 +37,8 @@ Skills
 ======
 * Coding and tech skills
   * Python (and data related libraries numpy, matplotlib, pandas..)
-  * Javascript/HTML/CSS : Basics of front end Web development
-  * PHP (and Jquery framework)
+  * Javascript/HTML/CSS and Jquery framework: Basics of front end Web development
+  * PHP 
   * LateX
   * SQL
 * Strong theroetical background in Mathematics and Physics
