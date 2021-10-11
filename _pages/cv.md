@@ -42,7 +42,7 @@ Skills
   * LateX
   * SQL
 * Strong theroetical background in Mathematics and Physics
-* Langages
+* Languages
   * English (TOIC Score 975/990)
   * German (17/20 at Centrale's Entrance competitive examination) 
   * French (Native Speaker)
