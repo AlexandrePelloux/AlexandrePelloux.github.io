@@ -1,5 +1,5 @@
 ---
-title: "Maths Courses (degree Level) for International students"
+title: "Maths Courses (Bachelor Level) for International students"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-2
@@ -8,7 +8,7 @@ date: 2020-09-09
 location: "Villeneuve d'ascq, France"
 ---
 
-Giving some free maths courses (degree Level) to the first year international Students at Centrale
+Giving some free maths courses (Bachelor Level) to the first year international Students at Centrale
 
 Teaching Content
 ======
